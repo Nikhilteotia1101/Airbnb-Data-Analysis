@@ -51,4 +51,3 @@ These recommendations consider potential strategies such as offering different r
 
 **Author**
 
-This project was created by Tarakram. You can contact me at jtarakram6699@email.com.
